@@ -1,5 +1,8 @@
 # TigerTooth Chess, version RELEASE v1.0
 
+TigerTooth is a multiplayer chess game that requires only an IP address and an open port.
+Everything is complete. This version is the latest stable release(11.08.2017)
+
 ## Dependancies:
   * [Google Guava](https://github.com/google/guava)
   * [Hamcrest](https://github.com/hamcrest/JavaHamcrest)
@@ -18,9 +21,6 @@ your disk.
 ### Launch instructions:
 Expand the project, expand "src" folder, expand "com.chess" package
 launch "TigerTooth.java".
-
-TigerTooth is a multiplayer chess game that requires only an IP address and an open port.
-Everything is complete. This version is the latest stable release(11.08.2017)
 
 ## Screenshots:
 ![tigertooth_1](https://user-images.githubusercontent.com/25724155/54490784-0c643c00-48ca-11e9-9e6c-5eb2114004d1.png)
