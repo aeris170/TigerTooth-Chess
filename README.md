@@ -23,5 +23,5 @@ Expand the project, expand "src" folder, expand "com.chess" package
 launch "TigerTooth.java".
 
 ## Screenshots:
-![tigertooth_1](https://user-images.githubusercontent.com/25724155/54490784-0c643c00-48ca-11e9-9e6c-5eb2114004d1.png)
+![tigertooth_1](https://user-images.githubusercontent.com/25724155/54490876-facf6400-48ca-11e9-8a96-4b00c96ea2d2.png)
 ![tigertooth_2](https://user-images.githubusercontent.com/25724155/54490785-0c643c00-48ca-11e9-9fa7-58742304ee64.png)
