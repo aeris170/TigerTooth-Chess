@@ -1,6 +1,6 @@
-#TigerTooth Chess, version RELEASE v1.0
+# TigerTooth Chess, version RELEASE v1.0
 
-##Dependancies:
+## Dependancies:
   * [Google Guava](https://github.com/google/guava)
   * [Hamcrest](https://github.com/hamcrest/JavaHamcrest)
   * [JUnit](https://github.com/junit-team/junit4)
