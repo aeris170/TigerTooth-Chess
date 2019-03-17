@@ -15,7 +15,7 @@ Launch Eclipse IDE, click the "File" menu. On the sub-menu,
 select "Open Projects from File System...". Select the project file located on,
 your disk.
 
-###Launch instructions:
+### Launch instructions:
 Expand the project, expand "src" folder, expand "com.chess" package
 launch "TigerTooth.java".
 
