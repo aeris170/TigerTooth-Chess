@@ -1,7 +1,7 @@
 # TigerTooth Chess, version RELEASE v1.0
 
 TigerTooth is a multiplayer chess game that requires only an IP address and an open port.
-Everything is complete. This version is the latest stable release(11.08.2017)
+Everything is complete. This version is the latest stable release. (11/08/2017)
 
 ## Dependancies:
   * [Google Guava](https://github.com/google/guava)
