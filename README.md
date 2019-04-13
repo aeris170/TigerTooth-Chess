@@ -11,7 +11,7 @@ Everything is complete. This version is the latest stable release. (11/08/2017)
 
 ## Instructions:
 In order to run the project you are going to need to 
-import the project to Eclipse Java Oxygen(4.7.0 with build id 20170620-1800).
+import the project to any IDE. (Latest version of Eclipse IDE is tested to be working)
 
 ### Import instructions:
 Launch Eclipse IDE, click the "File" menu. On the sub-menu,
